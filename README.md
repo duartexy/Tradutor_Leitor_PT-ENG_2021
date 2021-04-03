@@ -2,6 +2,7 @@
 # código inteiro
 # ele ficou bem cagadinho pq eu são quase 3 horas da manhã e fiquei animado pra terminar logo
 
+```py
 from tkinter import *
 from gtts import gTTS
 import os
@@ -88,3 +89,4 @@ botao_en.place(x = 300, y = 55)
 botao_en.configure(background="#b8b9c1", foreground="#001572")
 
 app.mainloop()
+```
