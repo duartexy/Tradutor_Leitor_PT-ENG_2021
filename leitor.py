@@ -54,18 +54,18 @@ def funcao() :
                 fala = text.get()
 
                 voz = gTTS(fala, lang = f"{escolha}")
-                voz.save(f"voz.mp4")
+                voz.save(f"voz.mp3")
 
-                os.system(f'mpg321 voz.mp4 &')
+                os.system(f'mpg321 voz.mp3 &')
 
                 label2.configure(text = "Leitura realizada com sucesso")
                 botao.place(x = 220)
 
     else:
         voz = gTTS("Digite algo no console", lang = f"{escolha}")
-        voz.save(f"vozConsole.mp4")
+        voz.save(f"vozConsole.mp3")
 
-        os.system(f'mpg321 vozConsole.mp4 &')
+        os.system(f'mpg321 vozConsole.mp3 &')
 
         print("conexão falhada")
         label2.configure(text = "Digite algo no console")
