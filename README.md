@@ -1,6 +1,6 @@
 # leitor-virtual-suporte-pt_br-e-en
 # código inteiro
-# ele ficou bem cagadinho pq eu são quase 3 horas fa manhã e fiquei animado pra terminar logo
+# ele ficou bem cagadinho pq eu são quase 3 horas da manhã e fiquei animado pra terminar logo
 
 from tkinter import *
 from gtts import gTTS
