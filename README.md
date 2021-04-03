@@ -1,3 +1,4 @@
+![Screenshot from 2021-04-03 02-13-30](https://user-images.githubusercontent.com/74983326/113469642-a2258200-9425-11eb-812e-2bd6c295fd14.png)
 # leitor virtual
 # código inteiro
 # ele ficou bem cagadinho pq eu são quase 3 horas da manhã e fiquei animado pra terminar logo
@@ -90,3 +91,8 @@ botao_en.configure(background="#b8b9c1", foreground="#001572")
 
 app.mainloop()
 ```
+
+![Screenshot from 2021-04-03 02-13-30](https://user-images.githubusercontent.com/74983326/113469645-ae114400-9425-11eb-8229-3eecb0bbdc84.png)
+![Screenshot from 2021-04-03 02-13-39](https://user-images.githubusercontent.com/74983326/113469650-b5d0e880-9425-11eb-948e-a50c1d062c70.png)
+
+
